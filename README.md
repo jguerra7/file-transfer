@@ -1,6 +1,6 @@
 ![Logo](logo.png)
 # file-transfer
-using python socket to send or convert files.
+Using python socket to send or convert files.
 
 ## Requirements: 
 ```
