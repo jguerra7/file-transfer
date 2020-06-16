@@ -17,10 +17,10 @@ python tosend.py
 ```
 
 if you are receiver you have 2 options:
-```
-  1- Simply recv the file with orginal format
-  2- Recv the file with converted format
-```
+
+-  1- Simply recv the file with orginal format
+-  2- Recv the file with converted format
+
 if you choose 1 then
 ask your sender to tell you orginal format and set it to receiver.py:
 ```python
